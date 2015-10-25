@@ -22,10 +22,10 @@
     $app -> get('/projects/', function(){
 
 //set username
-    $servername = "154.0.170.55";
-    $username = "obkzeoyb_KEM74";
-    $password = "obkzeoyb_LyQLBS6B";
-    $dbname = "myWork";
+    $servername = "sql2.freemysqlhosting.net";
+    $username = "sql294036";
+    $password = "rS2%sP4*";
+    $dbname = "sql294036";
         
         
     
